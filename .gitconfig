@@ -1,0 +1,7 @@
+[user]
+	name = Klyde Breitton
+	email = kbreitton@gmail.com
+[push]
+	default = simple
+[core]
+	editor = vim
