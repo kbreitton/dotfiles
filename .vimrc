@@ -1,4 +1,5 @@
 " *******TIPS**********
+" <line_num>G to go to a line
 " :%s/foo/bar/g "search and replace 'foo' with 'bar' in all instances in all lines
 " :s/foo/bar/g  "search and replace all instances in current line
 " :%s/foo/bar/gc "ask for confirmation
